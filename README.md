@@ -1,7 +1,7 @@
 # Python
 
 
-# 💡Indrajeet's SQL Portfolio
+# 💡Indrajeet's Python Portfolio
 
 
 
